@@ -1,0 +1,46 @@
+.button-operation{
+    background-color: #5f66cd;
+    text-align: center;
+    font-size: 30px;
+    line-height: 2;
+    box-sizing: border-box;
+    font-family: 'Space Mono', monospace;
+}
+.button-operation:hover{
+    cursor: pointer;
+}
+
+#b-clear{
+    grid-column: 1/4;
+    grid-row: 1/2;
+    background-color: rgb(179, 53, 53);
+}
+#b-ce{
+    grid-column: 4/5;
+    grid-row: 1/2;
+}
+#b-point{
+    grid-column: 2/3;
+    grid-row: 5/6;
+    font-weight: bold;
+}
+#b-equal{
+    grid-column: 3/4;
+    grid-row: 5/6;
+}
+#b-sum{
+    grid-column: 4/5;
+    grid-row: 2/3;
+}
+#b-subtract{
+    grid-column: 4/5;
+    grid-row: 3/4;
+}
+#b-multiply{
+    grid-column: 4/5;
+    grid-row: 4/5;
+}
+#b-divide{
+    grid-column: 4/5;
+    grid-row: 5/6;
+}
