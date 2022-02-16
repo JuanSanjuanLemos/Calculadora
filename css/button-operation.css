@@ -19,11 +19,7 @@
     grid-column: 4/5;
     grid-row: 1/2;
 }
-#b-point{
-    grid-column: 2/3;
-    grid-row: 5/6;
-    font-weight: bold;
-}
+
 #b-equal{
     grid-column: 3/4;
     grid-row: 5/6;
